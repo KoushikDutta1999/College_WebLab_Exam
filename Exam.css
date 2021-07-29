@@ -1,0 +1,23 @@
+body{
+	padding-top: 200px;
+}
+.outer{
+	background-color: white;
+	width: 300px;
+	padding: 30px;
+	margin: auto;
+	align-items: center;
+	color: black;
+}
+.inner{
+	background-color: #4da6ff;
+	width: 400px;
+	padding: 30px;
+	margin: auto;
+	text-align: center;
+	color: white;	
+}
+a{
+	color: white;
+	text-decoration: underline;
+}
